@@ -1,16 +1,19 @@
-## Hi there 👋
+# Greetings 🖖
 
-<!--
-**mesamarten710/mesamarten710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **mesamarten710**, a open-source contributor.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I write code while drinking coffee
+- 📚 Reading the source is the best documentation
+- 👯 Looking to collaborate on open source
+- 🔭 Currently working on personal side projects
+- 🎨 Code is poetry
+
+## Tech
+
+`Dart` `Remix` `FastAPI` `Svelte` `RabbitMQ`
+
+---
+
+_Bug hunter._
